@@ -1,0 +1,46 @@
+{
+ "id": "/",
+ "name": "Chakib Zenji 2: Meftah Edition",
+ "short_name": "Chakib Zenji 2",
+ "description": "FPS en ligne dans le navigateur : solo contre des bots ou en ligne entre amis.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "fullscreen",
+ "display_override": [
+  "fullscreen",
+  "standalone"
+ ],
+ "orientation": "landscape",
+ "categories": [
+  "games"
+ ],
+ "background_color": "#0B0D0F",
+ "theme_color": "#0B0D0F",
+ "prefer_related_applications": false,
+ "icons": [
+  {
+   "src": "icons/icon-192.d684961b.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-512.53803ef2.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/maskable-192.1b12b4b2.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "icons/maskable-512.0b163e6b.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "chakib-zenji-railway",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Chakib Zenji 2 : le jeu et son relais de salons en ligne, pour Railway",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/relay-test.js"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": { "ws": "^8.18.0" }
+}
